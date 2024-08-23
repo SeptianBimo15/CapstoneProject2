@@ -1,4 +1,5 @@
-# CapstoneProject2
+# Supermarket Analysis
+
 ## Supermarket Dataset 
 Dataset dapat diakses [di sini](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK).
 
